@@ -78,6 +78,14 @@ def main():
     point2 = [4, 8]
     bresenham_line(point1, point2)
 
+    point1 = [1, 1]
+    point2 = [8, 4]
+    bresenham_line(point1, point2)
+
+    point1 = [1, 1]
+    point2 = [4, 8]
+    bresenham_line(point1, point2)
+
 
 if __name__ == "__main__":
     main()
