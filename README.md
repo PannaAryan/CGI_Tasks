@@ -17,8 +17,8 @@
 
 
 
-### **Case 1**: Line from (1,1) to (8,4) - Represents a slope where 0 < m < 1.
+### **Case 1**: Line from (1,1) to (8,4) - where 0 < m < 1.
 ![case 1](0<m<1.png)
 
-### **Case 2**: Line from (1,1) to (4,8) - Represents a slope where m > 1.
+### **Case 2**: Line from (1,1) to (4,8) - where m > 1.
 ![case 2](m>1.png)
